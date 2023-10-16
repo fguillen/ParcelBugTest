@@ -1,3 +1,5 @@
+import { Class1 } from "./class_1.js";
+
 console.log("Loading App");
 
 class App {
