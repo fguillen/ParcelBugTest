@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM;IACJ,aAAc;QACZ,IAAI,CAAC,OAAO,GAAG,IAAI;IACrB;AACF;AAEA,IAAI","sources":["src/js/app.js"],"sourcesContent":["class App {\n  constructor() {\n    this.class_1 = new Class1();\n  }\n}\n\nnew App();\n"],"names":[],"version":3,"file":"index.8f0c9192.js.map","sourceRoot":"/__parcel_source_root/"}

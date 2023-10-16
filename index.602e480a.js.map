@@ -1,0 +1,1 @@
+{"mappings":"A,2D","sources":["<anon>","src/js/class_1.js"],"sourcesContent":["class Class1 {\n    constructor(){\n        console.log(\"Class1 constructor()\");\n    }\n}\n\n//# sourceMappingURL=index.602e480a.js.map\n","class Class1 {\n  constructor() {\n    console.log(\"Class1 constructor()\");\n  }\n}\n"],"names":[],"version":3,"file":"index.602e480a.js.map"}
