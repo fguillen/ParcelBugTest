@@ -2,8 +2,8 @@
   "name": "parcel-test",
   "source": "src/index.html",
   "scripts": {
-    "start": "parcel",
-    "build": "parcel build",
+    "start": "parcel --public-url ./",
+    "build": "parcel build --public-url ./",
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose"
   },
   "devDependencies": {
